@@ -5,16 +5,7 @@ A mini analytics project designed to evaluate fleet productivity, fuel efficienc
 ---
 
 ## 📌 Overview
-This dashboard analyzes key fleet metrics such as:
-
-- Vehicle & Type  
-- Trip & Driver Details  
-- Origin–Destination Routes  
-- Fuel Consumption  
-- Distance Travelled  
-- Load Capacity  
-- Maintenance Cost  
-
+ 
 The objective is to measure **vehicle efficiency**, identify **cost-heavy assets**, and improve **fleet-level decision making**.
 
 ---
