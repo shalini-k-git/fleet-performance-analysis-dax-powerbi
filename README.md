@@ -17,6 +17,7 @@ The objective is to measure **vehicle efficiency**, identify **cost-heavy assets
 ---
 
 ## 📊 Dashboard Preview
+![Fleet Performance Dashboard](./images/dashboard.png)
 
 
 
